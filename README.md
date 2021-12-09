@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About the Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Available Scripts
 
@@ -41,4 +41,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Future Advances
 
+Utilisation of TailwindCSS for more organised CSS styling.
 Making a match of 5 candies and the spawn of multi-colored candies, alongside animations.
